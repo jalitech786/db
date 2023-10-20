@@ -1,5 +1,5 @@
-[
-  {
+{
+  data: [{
     "thumb": "https://img.youtube.com/vi/dPqsP84GOwE/maxresdefault.jpg",
     "title": "Test 1",
     "description": "Test 1 description from server"
@@ -13,5 +13,5 @@
     "thumb": "https://img.youtube.com/vi/G9SwnMZ4SW4/maxresdefault.jpg",
     "title": "Test 3",
     "description": "Test 2 description from server"
-  },
-]
+  }]
+}
